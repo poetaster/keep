@@ -14,7 +14,7 @@ Some audio samples can be found here: https://poetaster.org/keep . You can also 
 
 <a href="https://www.tindie.com/stores/poetaster/?ref=offsite_badges&utm_source=sellers_poetaster&utm_medium=badges&utm_campaign=badge_small"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png" alt="I sell on Tindie" width="200" height="55"></a>
 
-![v4 keep](keep_wired_1.jpg)
+![v4 keep](keepV4.jpg)
 
 It's a self-sequencing, semi-modular, pocket synth. Props to minimo, bastl, minty synth etc!
 
@@ -24,6 +24,9 @@ It's a self-sequencing, semi-modular, pocket synth. Props to minimo, bastl, mint
 
 Version 4 adds waveshaping on the amplitude modulation input, changes the order of the sequencer mix and adds outputs on the rest of the 4040 Q outputs. Otherwise, it adds more space, especially to ease installing vactrol
 
+This is the kit version which still does not include the switch as above:
+
+![v4 keep](keep_wired_1.jpg)
 
 ![PCB view](keepV4pcb.png)
 ![PCB toppanel](keepV4TopPanel.png)
